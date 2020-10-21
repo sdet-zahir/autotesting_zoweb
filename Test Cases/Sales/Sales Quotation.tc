@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Step 
+1.  Visit sandbox.zahir.com
+2.  Go to Sales Module
+3.  Create new data in Sales Quotation menu
+4.  Enter all form and Save that transaction</description>
+   <name>Sales Quotation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97a79b3f-c11a-4f27-8593-5d411c83bea5</testCaseGuid>
+</TestCaseEntity>
