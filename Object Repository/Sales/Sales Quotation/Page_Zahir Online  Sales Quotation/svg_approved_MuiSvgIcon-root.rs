@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>svg_Tax_MuiSvgIcon-root</name>
+   <name>svg_approved_MuiSvgIcon-root</name>
    <tag></tag>
-   <elementGuidId>321ed2d2-6f58-430d-a6ec-6ec6ed80887a</elementGuidId>
+   <elementGuidId>097aaa4b-3d68-4f35-9266-078fd2474112</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Tax'])[1]/following::*[name()='svg'][1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='approved'])[1]/following::*[name()='svg'][1]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.css-1thkkgx-indicatorContainer > svg.MuiSvgIcon-root</value>
+         <value>span.MuiBadge-root > button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-sizeSmall > span.MuiIconButton-label > svg.MuiSvgIcon-root</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -56,34 +56,34 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;sales-invoice-form-body&quot;)/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;MuiTable-root table table-striped&quot;]/tbody[@class=&quot;MuiTableBody-root&quot;]/tr[@class=&quot;MuiTableRow-root&quot;]/td[@class=&quot;MuiTableCell-root MuiTableCell-body&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container&quot;]/div[@class=&quot;MuiCollapse-container MuiCollapse-entered&quot;]/div[@class=&quot;MuiCollapse-wrapper&quot;]/div[@class=&quot;MuiCollapse-wrapperInner&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12&quot;]/div[1]/div[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth&quot;]/div[@class=&quot;jss234&quot;]/div[@class=&quot;css-1eif6y8-container&quot;]/div[@class=&quot;css-evtfuj-control&quot;]/div[@class=&quot;css-1wy0on6&quot;]/div[@class=&quot;css-1thkkgx-indicatorContainer&quot;]/svg[@class=&quot;MuiSvgIcon-root&quot;]</value>
+      <value>id(&quot;klasifikasi-alamat-data&quot;)/div[@class=&quot;ledger-body klasifikasi-alamat sales sales-invoice&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;ReactVirtualized__Table jss48580&quot;]/div[@class=&quot;ReactVirtualized__Grid ReactVirtualized__Table__Grid&quot;]/div[@class=&quot;ReactVirtualized__Grid__innerScrollContainer&quot;]/div[@class=&quot;ReactVirtualized__Table__row animation-slide-bottom jss48582 jss48581 jss48585&quot;]/div[@class=&quot;ReactVirtualized__Table__rowColumn jss48581&quot;]/div[@class=&quot;MuiTableCell-root MuiTableCell-body jss48586 jss48581&quot;]/span[@class=&quot;MuiBadge-root&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeSmall&quot;]/span[@class=&quot;MuiIconButton-label&quot;]/svg[@class=&quot;MuiSvgIcon-root&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tax'])[1]/following::*[name()='svg'][1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='approved'])[1]/following::*[name()='svg'][1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pcs'])[1]/following::*[name()='svg'][2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 2,140'])[1]/following::*[name()='svg'][1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='- (0%)'])[1]/preceding::*[name()='svg'][1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[2]/preceding::*[name()='svg'][2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[7]/preceding::*[name()='svg'][2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SQ000007'])[1]/preceding::*[name()='svg'][2]</value>
    </webElementXpaths>
 </WebElementEntity>

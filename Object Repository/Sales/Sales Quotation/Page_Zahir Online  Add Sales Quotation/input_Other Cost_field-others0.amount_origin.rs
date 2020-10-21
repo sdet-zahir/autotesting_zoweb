@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Other Cost_field-others0.amount_origin</name>
    <tag></tag>
-   <elementGuidId>391b93a1-8eda-47ec-9750-2eac2716ff62</elementGuidId>
+   <elementGuidId>0d722655-2af3-4a04-bd16-a2024f553933</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

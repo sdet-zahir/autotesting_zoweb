@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Sales</name>
    <tag></tag>
-   <elementGuidId>44cb7d13-cd4b-43ee-b771-f64f177d2217</elementGuidId>
+   <elementGuidId>bb80cf43-5cc3-4d39-8b52-ba64697bf1b1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

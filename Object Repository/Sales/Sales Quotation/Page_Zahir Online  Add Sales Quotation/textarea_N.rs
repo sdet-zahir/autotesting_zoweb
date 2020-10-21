@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>textarea_Pesa</name>
+   <name>textarea_N</name>
    <tag></tag>
-   <elementGuidId>76c64247-2eb6-4bde-96be-7ffb55c46229</elementGuidId>
+   <elementGuidId>d3110668-9362-4831-adef-1e67391fd70a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -77,7 +77,7 @@
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Pesa</value>
+      <value>N</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Pesa']/parent::*</value>
+      <value>//*/text()[normalize-space(.)='N']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

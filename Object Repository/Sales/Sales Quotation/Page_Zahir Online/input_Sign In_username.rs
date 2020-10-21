@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Sign In_username</name>
    <tag></tag>
-   <elementGuidId>2db546ec-7620-442a-9f0f-bdfadb2e96ff</elementGuidId>
+   <elementGuidId>6db6f202-de83-4018-bfdb-efe76f68f917</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

@@ -3,15 +3,15 @@
    <description></description>
    <name>div_P004Garpu5,413,354Rp 1,000</name>
    <tag></tag>
-   <elementGuidId>21529386-59dc-42a8-a782-ec51331a1b27</elementGuidId>
+   <elementGuidId>9a3f32b9-b0a4-4661-be1a-147c0190b908</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='react-select-4-option-2']</value>
+         <value>//div[@id='react-select-4-option-2']/li/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#react-select-4-option-2</value>
+         <value>#react-select-4-option-2 > li.MuiListItem-root.jss7183 > div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,27 +22,6 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>css-xcz62f-option</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>react-select-4-option-2</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>-1</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -56,41 +35,34 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;react-select-4-option-2&quot;)</value>
+      <value>id(&quot;react-select-4-option-2&quot;)/li[@class=&quot;MuiListItem-root jss7183&quot;]/div[1]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//div[@id='react-select-4-option-2']</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='sales-invoice-form-body']/div/table/tbody/tr/td[2]/div/div/div/div/div/div/div[2]/div/div[3]</value>
+      <value>//div[@id='react-select-4-option-2']/li/div</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 1,000'])[1]/following::div[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 1,000'])[1]/following::div[3]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sendok'])[1]/following::div[6]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sendok'])[1]/following::div[7]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div/div[2]/div/div[3]</value>
+      <value>//div[3]/li/div</value>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>textarea_Note_field-line_items0.note</name>
    <tag></tag>
-   <elementGuidId>5ed82b95-af9e-4ea8-a39f-54ab4d773feb</elementGuidId>
+   <elementGuidId>a055af79-2361-4ae8-8fdb-6a7851770916</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

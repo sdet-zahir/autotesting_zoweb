@@ -3,7 +3,7 @@
    <description></description>
    <name>span_expand_more</name>
    <tag></tag>
-   <elementGuidId>166786e4-eb99-4ac0-9a2d-eee76f012d12</elementGuidId>
+   <elementGuidId>aface42a-7994-4981-9b1d-7c50df995dc3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -84,7 +84,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Note'])[1]/preceding::span[5]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Note'])[1]/preceding::span[7]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

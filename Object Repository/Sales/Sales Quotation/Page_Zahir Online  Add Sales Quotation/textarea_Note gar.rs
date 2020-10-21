@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>textarea_P</name>
+   <name>textarea_Note gar</name>
    <tag></tag>
-   <elementGuidId>29876e18-2874-4386-90a9-0fe9111454a0</elementGuidId>
+   <elementGuidId>47165643-bb3e-44e7-8252-f4e0ac1a5832</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -77,7 +77,7 @@
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>P</value>
+      <value>Note gar</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='P']/parent::*</value>
+      <value>//*/text()[normalize-space(.)='Note gar']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

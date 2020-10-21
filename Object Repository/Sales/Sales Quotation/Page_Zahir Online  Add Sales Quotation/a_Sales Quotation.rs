@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Sales Quotation</name>
    <tag></tag>
-   <elementGuidId>2d8ca26f-3a89-45b5-9cf9-831fc2bed5e8</elementGuidId>
+   <elementGuidId>73e68b4a-5d1d-419a-95d1-77ab7c47bfb9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

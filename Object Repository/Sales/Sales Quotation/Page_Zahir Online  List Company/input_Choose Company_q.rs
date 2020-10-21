@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Early Dicsount_field-term_of_payments_79a15f</name>
+   <name>input_Choose Company_q</name>
    <tag></tag>
-   <elementGuidId>699a714c-b722-4f69-ac9f-839fa1a86972</elementGuidId>
+   <elementGuidId>0baa5364-994b-4f61-aa42-3720f1346582</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='field-term_of_payments[0].early_discount_rate']</value>
+         <value>//input[@name='q']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>input[name=&quot;q&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,13 +26,6 @@
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>inputmode</name>
-      <type>Main</type>
-      <value>numeric</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
@@ -40,23 +33,16 @@
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>name</name>
       <type>Main</type>
-      <value>field-term_of_payments[0].early_discount_rate</value>
+      <value>q</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>minlength</name>
+      <name>placeholder</name>
       <type>Main</type>
-      <value>5</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd</value>
+      <value>Search Company</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -68,36 +54,36 @@
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>class</name>
       <type>Main</type>
-      <value> 0</value>
+      <value>MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;field-term_of_payments[0].early_discount_rate&quot;)</value>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;background-login&quot;]/div[@class=&quot;wrapper-company&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-lg-8 MuiGrid-grid-xl-9&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-12&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;MuiFormControl-root MuiTextField-root&quot;]/div[@class=&quot;MuiInputBase-root MuiOutlinedInput-root Mui-focused Mui-focused MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd&quot;]/input[@class=&quot;MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='field-term_of_payments[0].early_discount_rate']</value>
+      <value>//input[@name='q']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='sales-invoice-form-footer']/div/div[2]/div[2]/div/div/div/div[4]/div[2]/div/div/div/div[3]/div/div/div[2]/input</value>
+      <value>//div[@id='app']/div/div/div/div/div/div[3]/div/div/div/div/div/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/div/div[3]/div/div/div[2]/input</value>
+      <value>//input</value>
    </webElementXpaths>
 </WebElementEntity>

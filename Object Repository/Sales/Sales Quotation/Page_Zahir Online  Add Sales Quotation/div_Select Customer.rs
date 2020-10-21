@@ -3,7 +3,7 @@
    <description></description>
    <name>div_Select Customer</name>
    <tag></tag>
-   <elementGuidId>1021d1b7-590c-48fc-abb1-32bf0433ed9f</elementGuidId>
+   <elementGuidId>531da7de-3655-440f-b433-78d5e0cac872</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

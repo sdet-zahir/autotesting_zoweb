@@ -3,7 +3,7 @@
    <description></description>
    <name>input_General Customer_jss370</name>
    <tag></tag>
-   <elementGuidId>81f4ac08-7041-49e5-8f7c-ce8460733517</elementGuidId>
+   <elementGuidId>50f282cc-b06b-4b63-8bdb-7c02faab37e9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

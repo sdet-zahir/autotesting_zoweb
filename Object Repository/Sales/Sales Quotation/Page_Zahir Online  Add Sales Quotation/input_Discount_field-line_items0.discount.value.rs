@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Discount_field-line_items0.discount.value</name>
    <tag></tag>
-   <elementGuidId>fbd35330-0067-4616-ba51-9d19d4ecd82f</elementGuidId>
+   <elementGuidId>ebe9986b-ef87-486a-932d-d3ad352bab3a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
