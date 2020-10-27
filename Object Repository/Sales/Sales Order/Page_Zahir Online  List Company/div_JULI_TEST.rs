@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_General Customer</name>
+   <name>div_JULI_TEST</name>
    <tag></tag>
-   <elementGuidId>211a155f-7d9c-4388-810d-d4a3b21fb3aa</elementGuidId>
+   <elementGuidId>4e9bef27-7682-4ba9-8db2-800fcc3bb6d2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'General Customer' or . = 'General Customer')]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
-         <value>//div[@id='react-select-2-option-2']/li/div/div/div</value>
+         <value>//div[@id='app']/div/div/div/div/div/div[4]/div/div/div/div/div[2]/div[2]/div/div/div/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#react-select-2-option-2 > li.MuiListItem-root.jss4781 > div > div > div.MuiTypography-root.undefined.MuiTypography-body2.MuiTypography-colorTextPrimary</value>
+         <value>div.MuiTableCell-root.MuiTableCell-body.jss67.jss62</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -32,69 +28,76 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>MuiTypography-root undefined MuiTypography-body2 MuiTypography-colorTextPrimary</value>
+      <value>MuiTableCell-root MuiTableCell-body jss67 jss62</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>cell</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>General Customer</value>
+      <value>JULI_TEST</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;react-select-2-option-2&quot;)/li[@class=&quot;MuiListItem-root jss4781&quot;]/div[1]/div[1]/div[@class=&quot;MuiTypography-root undefined MuiTypography-body2 MuiTypography-colorTextPrimary&quot;]</value>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;background-login&quot;]/div[@class=&quot;wrapper-company&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-lg-8 MuiGrid-grid-xl-9&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-12&quot;]/div[@class=&quot;ledger-body klasifikasi-alamat sales sales-invoice&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;ReactVirtualized__Table jss61&quot;]/div[@class=&quot;ReactVirtualized__Grid ReactVirtualized__Table__Grid&quot;]/div[@class=&quot;ReactVirtualized__Grid__innerScrollContainer&quot;]/div[@class=&quot;ReactVirtualized__Table__row animation-slide-bottom jss63 jss62 jss66&quot;]/div[@class=&quot;ReactVirtualized__Table__rowColumn jss62 body2 color-black&quot;]/div[@class=&quot;MuiTableCell-root MuiTableCell-body jss67 jss62&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='react-select-2-option-2']/li/div/div/div</value>
+      <value>//div[@id='app']/div/div/div/div/div/div[4]/div/div/div/div/div[2]/div[2]/div/div/div/div</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CustomerJumat'])[1]/following::div[7]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::div[7]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer A'])[1]/following::div[14]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expired'])[1]/following::div[9]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='TesContact'])[1]/preceding::div[4]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v2'])[1]/preceding::div[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::div[11]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Professional'])[1]/preceding::div[3]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='General Customer']/parent::*</value>
+      <value>//*/text()[normalize-space(.)='JULI_TEST']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/li/div/div/div</value>
+      <value>//div[2]/div[2]/div/div/div/div</value>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_General Customer</name>
+   <name>a_Sales Order</name>
    <tag></tag>
-   <elementGuidId>211a155f-7d9c-4388-810d-d4a3b21fb3aa</elementGuidId>
+   <elementGuidId>b2273103-b4c7-4c12-a79e-7c76f36982ab</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'General Customer' or . = 'General Customer')]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
-         <value>//div[@id='react-select-2-option-2']/li/div/div/div</value>
+         <value>//div[@id='admin-menu-list']/div[2]/div/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#react-select-2-option-2 > li.MuiListItem-root.jss4781 > div > div > div.MuiTypography-root.undefined.MuiTypography-body2.MuiTypography-colorTextPrimary</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -25,76 +21,83 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>actuib</name>
+      <type>Main</type>
+      <value>push</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>MuiTypography-root undefined MuiTypography-body2 MuiTypography-colorTextPrimary</value>
+      <value>front-side </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/sales/sales-order</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>General Customer</value>
+      <value>Sales Order</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;react-select-2-option-2&quot;)/li[@class=&quot;MuiListItem-root jss4781&quot;]/div[1]/div[1]/div[@class=&quot;MuiTypography-root undefined MuiTypography-body2 MuiTypography-colorTextPrimary&quot;]</value>
+      <value>id(&quot;admin-menu-list&quot;)/div[@class=&quot;MuiGrid-root col-lg-3 col-sm-4 col-6 menu-item-container MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root menu-item menu-item menu-item-data-store-blue-2 MuiGrid-item MuiGrid-grid-xs-12&quot;]/a[@class=&quot;front-side&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='react-select-2-option-2']/li/div/div/div</value>
+      <value>//div[@id='admin-menu-list']/div[2]/div/a</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CustomerJumat'])[1]/following::div[7]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/following::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer A'])[1]/following::div[14]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales Quotation'])[2]/following::a[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='TesContact'])[1]/preceding::div[4]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales Order'])[2]/preceding::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:href</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::div[11]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='General Customer']/parent::*</value>
+      <value>//a[contains(@href, '/sales/sales-order')]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/li/div/div/div</value>
+      <value>//div[2]/div/a</value>
    </webElementXpaths>
 </WebElementEntity>

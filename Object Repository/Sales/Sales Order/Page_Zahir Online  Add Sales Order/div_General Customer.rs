@@ -3,19 +3,15 @@
    <description></description>
    <name>div_General Customer</name>
    <tag></tag>
-   <elementGuidId>211a155f-7d9c-4388-810d-d4a3b21fb3aa</elementGuidId>
+   <elementGuidId>83e34c08-07a0-49e8-b2f6-e4e36bf8c4ab</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'General Customer' or . = 'General Customer')]</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='react-select-2-option-2']/li/div/div/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#react-select-2-option-2 > li.MuiListItem-root.jss4781 > div > div > div.MuiTypography-root.undefined.MuiTypography-body2.MuiTypography-colorTextPrimary</value>
+         <value>#react-select-2-option-2 > li.MuiListItem-root.jss5481 > div > div > div.MuiTypography-root.undefined.MuiTypography-body2.MuiTypography-colorTextPrimary</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -46,7 +42,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;react-select-2-option-2&quot;)/li[@class=&quot;MuiListItem-root jss4781&quot;]/div[1]/div[1]/div[@class=&quot;MuiTypography-root undefined MuiTypography-body2 MuiTypography-colorTextPrimary&quot;]</value>
+      <value>id(&quot;react-select-2-option-2&quot;)/li[@class=&quot;MuiListItem-root jss5481&quot;]/div[1]/div[1]/div[@class=&quot;MuiTypography-root undefined MuiTypography-body2 MuiTypography-colorTextPrimary&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -81,7 +77,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::div[11]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quotation No.'])[1]/preceding::div[11]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

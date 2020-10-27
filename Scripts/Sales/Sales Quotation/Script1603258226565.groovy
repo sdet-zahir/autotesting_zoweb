@@ -72,7 +72,7 @@ WebUI.click(findTestObject('Object Repository/Sales/Sales Quotation/Page_Zahir O
 
 WebUI.click(findTestObject('Object Repository/Sales/Sales Quotation/Page_Zahir Online  Add Sales Quotation/div_Select Customer'))
 
-WebUI.click(findTestObject('Object Repository/Sales/Sales Quotation/Page_Zahir Online  Add Sales Quotation/div_General Customer'))
+WebUI.click(findTestObject('Sales/Sales Quotation/Page_Zahir Online  Add Sales Quotation/div_General Customer'))
 
 WebUI.click(findTestObject('Object Repository/Sales/Sales Quotation/Page_Zahir Online  Add Sales Quotation/div_Select Product'))
 
