@@ -10,11 +10,15 @@
          <value>//div[@id='react-select-2-option-2']/li/div/div/div</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'General Customer' or . = 'General Customer')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
-         <value>#react-select-2-option-2 > li.MuiListItem-root.jss5481 > div > div > div.MuiTypography-root.undefined.MuiTypography-body2.MuiTypography-colorTextPrimary</value>
+         <value>#react-select-2-option-2 > li.MuiListItem-root.jss7883 > div > div > div.MuiTypography-root.undefined.MuiTypography-body2.MuiTypography-colorTextPrimary</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
