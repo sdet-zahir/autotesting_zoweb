@@ -40,9 +40,7 @@ WebUI.click(findTestObject('Object Repository/Sales/Sales Quotation/Page_Zahir O
 
 WebUI.click(findTestObject('Object Repository/Sales/Sales Quotation/Page_Zahir Online  Add Sales Quotation/div_Select Customer'))
 
-WebUI.click(findTestObject('Sales/Sales Order/Page_Zahir Online  Add Sales Order/div_General Customer'))
-
-WebUI.click(findTestObject('Object Repository/Sales/Sales Quotation/Page_Zahir Online  Add Sales Quotation/div_Select Product'))
+WebUI.click(findTestObject('Object Repository/Sales/Sales Quotation/Page_Zahir Online  Add Sales Quotation/div_Garpu'))
 
 WebUI.doubleClick(findTestObject('Object Repository/Sales/Sales Quotation/Page_Zahir Online  Add Sales Quotation/input__field-line_items0.quantity'))
 
@@ -51,11 +49,13 @@ WebUI.setText(findTestObject('Object Repository/Sales/Sales Quotation/Page_Zahir
 
 WebUI.click(findTestObject('Object Repository/Sales/Sales Quotation/Page_Zahir Online  Add Sales Quotation/button_Save'))
 
-WebUI.click(findTestObject('Sales/Sales Quotation/Page_Zahir Online  Add Sales Quotation/div_Select Customer'))
+WebUI.click(findTestObject('Object Repository/Sales/Sales Quotation/Page_Zahir Online  Add Sales Quotation/div_Select Customer'))
 
 WebUI.click(findTestObject('Object Repository/Sales/Sales Quotation/Page_Zahir Online  Add Sales Quotation/div_General Customer'))
 
 WebUI.click(findTestObject('Object Repository/Sales/Sales Quotation/Page_Zahir Online  Add Sales Quotation/div_Select Product'))
+
+WebUI.click(findTestObject('Object Repository/Sales/Sales Quotation/Page_Zahir Online  Add Sales Quotation/div_Garpu'))
 
 WebUI.doubleClick(findTestObject('Object Repository/Sales/Sales Quotation/Page_Zahir Online  Add Sales Quotation/input__field-line_items0.quantity'))
 

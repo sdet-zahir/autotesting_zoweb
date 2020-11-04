@@ -15,5 +15,14 @@
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/Sales/Sales Order/TestSuitesCreateSalesOrder</testSuiteEntity>
       </TestSuiteRunConfiguration>
+      <TestSuiteRunConfiguration>
+         <configuration>
+            <groupName>Web Desktop</groupName>
+            <profileName>default</profileName>
+            <runConfigurationId>Chrome</runConfigurationId>
+         </configuration>
+         <runEnabled>true</runEnabled>
+         <testSuiteEntity>Test Suites/Sales/Sales Quotation/TestSuiteCreateSalesQuotation</testSuiteEntity>
+      </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>
